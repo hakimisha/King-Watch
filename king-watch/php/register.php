@@ -17,6 +17,4 @@
         echo "<script> window.location.replace('../html/register.html')</script>";
     }
     
-
-
 ?>
